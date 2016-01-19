@@ -1,0 +1,21 @@
+{
+  "name": "ci_project_name",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Concept Image"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "lodash": "~4.0.0",
+    "fastclick": "~1.0.6",
+    "bootstrap": "~3.3.6",
+    "gmaps": "~0.4.22"
+  }
+}

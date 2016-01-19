@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Concept Image\n"
+"POT-Creation-Date: 2016-01-19 14:35+0100\n"
+"PO-Revision-Date: 2016-01-19 14:39+0100\n"
+"Last-Translator: Concept Image <support.rennes@concept-image.fr>\n"
+"Language-Team: Concept Image <support.rennes@concept-image.f>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../wp_files\n"
+
+#: ../wp_files/includes/custom_bones.php:85
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../wp_files/index.php:10
+msgid "welcome"
+msgstr "Bienvenue"

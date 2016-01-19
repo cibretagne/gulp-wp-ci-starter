@@ -1,0 +1,12 @@
+{
+    "name": "ci/project_name",
+    "authors": [
+        {
+            "name": "Concept Image",
+            "email": "support.rennes@concept-image.fr"
+        }
+    ],
+    "require": {
+    	"mobiledetect/mobiledetectlib": "^2.8"
+    }
+}
